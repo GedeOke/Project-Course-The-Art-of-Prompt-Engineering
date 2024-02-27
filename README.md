@@ -6,9 +6,9 @@
 
 ## Mentee Info
 
-### Fariq Almasri
+### Name      : Fariq Almasri
 
-### Program IBM Advance AI
+### Program   : IBM Advance AI
 
 ## Tech Stack:
 
